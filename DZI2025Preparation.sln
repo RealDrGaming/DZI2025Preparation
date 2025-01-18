@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZI_08_2022_Inequations", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_18_PeevZadacha_1", "01_18_PeevZadacha_1\01_18_PeevZadacha_1.csproj", "{74AD0B37-1180-4908-A1F3-EA74BF8F202D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peev", "Peev\Peev.csproj", "{C8F89C6E-DA01-4A53-9118-5D55148225C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{74AD0B37-1180-4908-A1F3-EA74BF8F202D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74AD0B37-1180-4908-A1F3-EA74BF8F202D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74AD0B37-1180-4908-A1F3-EA74BF8F202D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F89C6E-DA01-4A53-9118-5D55148225C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F89C6E-DA01-4A53-9118-5D55148225C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F89C6E-DA01-4A53-9118-5D55148225C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F89C6E-DA01-4A53-9118-5D55148225C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
