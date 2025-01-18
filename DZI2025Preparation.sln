@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Peev", "Peev", "{8DD4DBF1-6EF9-416E-94D0-6A9C1F2308D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Self", "Self", "{244AA68E-797C-4988-8281-0BEBCEADB3FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DZIAugust2022", "DZIAugust2022", "{3E1E699E-6E96-4D18-B038-334154F85A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inequation", "Inequation\Inequation.csproj", "{CCB4714E-0BC8-4AA6-84D4-7269BD7365CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11JanuaryMeeting", "11JanuaryMeeting", "{5A89FE2C-1F01-4E0B-8F3E-C1A1576C1D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1", "Zadacha1\Zadacha1.csproj", "{F8DE91CA-1B5E-4E0F-9D94-EBEBCE42C372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB4714E-0BC8-4AA6-84D4-7269BD7365CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB4714E-0BC8-4AA6-84D4-7269BD7365CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB4714E-0BC8-4AA6-84D4-7269BD7365CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB4714E-0BC8-4AA6-84D4-7269BD7365CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DE91CA-1B5E-4E0F-9D94-EBEBCE42C372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DE91CA-1B5E-4E0F-9D94-EBEBCE42C372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DE91CA-1B5E-4E0F-9D94-EBEBCE42C372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DE91CA-1B5E-4E0F-9D94-EBEBCE42C372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E1E699E-6E96-4D18-B038-334154F85A07} = {244AA68E-797C-4988-8281-0BEBCEADB3FD}
+		{CCB4714E-0BC8-4AA6-84D4-7269BD7365CA} = {3E1E699E-6E96-4D18-B038-334154F85A07}
+		{5A89FE2C-1F01-4E0B-8F3E-C1A1576C1D9B} = {8DD4DBF1-6EF9-416E-94D0-6A9C1F2308D5}
+		{F8DE91CA-1B5E-4E0F-9D94-EBEBCE42C372} = {5A89FE2C-1F01-4E0B-8F3E-C1A1576C1D9B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52B7968-6BF9-4D13-8C41-4D810FBBCBDE}
+	EndGlobalSection
+EndGlobal
