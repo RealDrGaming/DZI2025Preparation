@@ -28,7 +28,23 @@ for (int i = 0; i < n; i++)
 
 instruments.Sort((x, y) => string.Compare(x.Name, y.Name));
 
-for (int i = 1; i <= instruments.Count; i++)
+for (int i = 0; i < instruments.Count; i++)
 {
-    Console.WriteLine($"{i}. {instruments[i]}");
+    Console.WriteLine($"{i + 1}. {instruments[i]}");
 }
+
+string[] notesLine = Console.ReadLine().Split(",", StringSplitOptions.RemoveEmptyEntries);
+
+List<Note> noteList = new List<Note>();
+
+foreach (string noteLine in notesLine) 
+{
+    Note note = new Note(noteLine[0].ToString(), noteLine[1], int.Parse(noteLine.Substring(2)));
+
+    noteList.Add(note);
+}
+
+double length = noteList.Sum(n => n.Duration) / 10.0;
+
+Console.WriteLine($"{length:f1}");
+

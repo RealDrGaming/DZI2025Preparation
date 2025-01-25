@@ -20,7 +20,7 @@ public class Note : IComparable<Note>
     public char Octave { get; private set; }
     public int Duration { get; private set; }
 
-    private string values = "A BbB C C#D D#E F F#G G#";
+    private string values = "A Bb B C C# D D# E F F# G G#";
 
     public override string ToString()
     {

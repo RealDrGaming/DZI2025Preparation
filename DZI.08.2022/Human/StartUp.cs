@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace DZI._08._2022.Human;
+﻿namespace DZI._08._2022.Human;
 
 public class StartUp
 {
