@@ -1,0 +1,17 @@
+Giovanni Battista Re,Cardinal,Francis
+Johns,ArchBishop,Angelo Sodano
+Leonardo Sandri,Cardinal,Francis
+Miles,Bishop,Peers
+Wendon,Priest,Miles
+Pringus,Priest,Messing
+Francis,pope,Z
+Angelo Sodano,Cardinal,Francis
+Francis Arinze,Cardinal,Francis
+Fallspring,Bishop,Johns
+Peers,ArchBishop,Leonardo Sandri
+Tarcisio Bertone SDB,Cardinal,Francis
+Jose Saraiva Martins CMF,Cardinal,Francis
+Pietro Parolin,Cardinal,Francis
+Messing,Bishop,Johns
+Sendlinks,Priest,Fallspring
+Moover,Priest,Miles
