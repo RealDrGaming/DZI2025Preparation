@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.01.Peev", "02.01.Peev\02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.08.Peev", "08.02.Peev\02.08.Peev.csproj", "{926712C6-9F5C-4C40-8854-090C55CA75F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZI.Multiple", "DZI.Multiple\DZI.Multiple.csproj", "{14081A75-D4A7-47B9-9952-96137D3387F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{926712C6-9F5C-4C40-8854-090C55CA75F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{926712C6-9F5C-4C40-8854-090C55CA75F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{926712C6-9F5C-4C40-8854-090C55CA75F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14081A75-D4A7-47B9-9952-96137D3387F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14081A75-D4A7-47B9-9952-96137D3387F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14081A75-D4A7-47B9-9952-96137D3387F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14081A75-D4A7-47B9-9952-96137D3387F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
