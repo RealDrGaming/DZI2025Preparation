@@ -1,0 +1,3 @@
+﻿2
+DFXR WhateverWood 132,45 60 S 20.07.2007 someplaceIg
+NQAZ SpecialWood 34.24 30 E 05.09.2006 somespecialPlace
